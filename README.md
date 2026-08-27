@@ -16,3 +16,6 @@ Squad ↔ Game → 1 Person ↔ Ticket → 1 Game ↔ Ticket → 1
 
 ## ER Diagram
 ![PNG ER Diagramu Databáze](https://github.com/WEndlessW/Ticket_DB/blob/main/screenshot_of_ticket_db.png)
+
+##Jak projekt spustit?
+Otevřete **MySQL Workbench**, vytvořte databázi *(např. tickets_db)*, spusťte **SQL skript**. A databáze by měla být plně připravena k použití. ![SQL skript ZDE!](./SQL Databáze Ticket DB/ticket_db.sql)
