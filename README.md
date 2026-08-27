@@ -30,4 +30,5 @@ Tato databáze vznikla pouze za účelem splnění druhého ročníku **VOŠ** :
 
 ## Autor
 Projekt zpracoval **Endless** do předmětu **DBS**.
+
 **- Endless 2026**
