@@ -26,6 +26,6 @@ Otevřete **MySQL Workbench**, vytvořte databázi *(např. tickets_db)*, spusť
 ## Důvod vzniku databáze
 Tato databáze vznikla pouze za účelem splnění druhého ročníku **VOŠ** :)
 
-##Autor
+## Autor
 Projekt zpracoval **Endless** do předmětu **DBS**.
 **- Endless 2026**
