@@ -15,7 +15,7 @@ Databáze se skládá ze čtyř hlavních tabulek *(game, squad, ticket, person)
 Squad ↔ Game → 1 Person ↔ Ticket → 1 Game ↔ Ticket → 1
 
 ## ER Diagram
-![PNG ER Diagramu Databáze](https://github.com/WEndlessW/Ticket_DB/blob/main/screenshot_of_ticket_db.png)
+[PNG ER Diagramu Databáze](https://github.com/WEndlessW/Ticket_DB/blob/main/screenshot_of_ticket_db.png)
 
 ##Jak projekt spustit?
-Otevřete **MySQL Workbench**, vytvořte databázi *(např. tickets_db)*, spusťte **SQL skript**. A databáze by měla být plně připravena k použití. [Go to parent folder README](https://github.com/WEndlessW/Ticket_DB/blob/1a7b43b1c39631fed60b2f19d793226b58e75630/SQL%20Datab%C3%A1ze%20Ticket%20DB/ticket_db.sql)
+Otevřete **MySQL Workbench**, vytvořte databázi *(např. tickets_db)*, spusťte **SQL skript**. A databáze by měla být plně připravena k použití.  **[Pro SQL Skript Klikni ZDE!](https://github.com/WEndlessW/Ticket_DB/blob/1a7b43b1c39631fed60b2f19d793226b58e75630/SQL%20Datab%C3%A1ze%20Ticket%20DB/ticket_db.sql)**
