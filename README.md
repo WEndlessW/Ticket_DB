@@ -16,7 +16,7 @@ Squad ↔ Game → 1 Person ↔ Ticket → 1 Game ↔ Ticket → 1
 
 ## ER Diagram
 <p align="center">
-  <img width="460" height="300" src="https://github.com/WEndlessW/Ticket_DB/blob/main/screenshot_of_ticket_db.png">
+  <img width="690" height="450" src="https://github.com/WEndlessW/Ticket_DB/blob/main/screenshot_of_ticket_db.png">
 </p>
 
 ##Jak projekt spustit?
